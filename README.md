@@ -1,5 +1,5 @@
 # MarqueeView
-A SwiftUI view that scrolls text from right to left in a continuous loop.
+A SwiftUI text view that scrolls smoothly from right to left in a continuous loop.
 
 # About This Code
 To read about my inspiration, creation process, and thinking behind the code, please see [this article on Dev](https://dev.to/montyharper/marqueeview-smoothly-scrolling-text-in-an-infinite-loop-using-swiftui-2idp).
